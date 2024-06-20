@@ -73,7 +73,6 @@ To run this project, you will need to set up a Twilio account and configure the 
 
 This project was developed with the guidance of a YouTube tutorial. It was created to practice and learn more about working with APIs and Twilio.
 This project extends its gratitude to the following individuals and resources:
-
 - YouTube content creator for their detailed [tutorial](https://youtu.be/WXsD0ZgxjRw?si=76WCd6kmxRVmi_jA) that provided essential guidance on building serverless functions with Twilio.
 - The Twilio team for their robust documentation, tools, and support that significantly contributed to the development of this project.
 
@@ -81,7 +80,6 @@ This project is a testament to collaborative learning and shared knowledge withi
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
