@@ -42,7 +42,7 @@ To run this project, you will need to set up a Twilio account and configure the 
 
    ```bash
    git clone https://github.com/SURIYALAKSHMI29/api.git
-   cd twilio-client-server-api
+   cd api
    ```
 
 2. **Install dependencies:**
