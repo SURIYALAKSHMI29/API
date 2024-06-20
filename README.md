@@ -1,5 +1,4 @@
 # Twilio Client-Server API Project
----
 
 This project is a simple client-server application built using Twilio's serverless functions. It allows users to send messages, including pictures, to a Twilio number. These messages are then displayed on a webpage (`index.html`). When a message is sent, the sender receives a response saying, "Thanks for sharing."
 
