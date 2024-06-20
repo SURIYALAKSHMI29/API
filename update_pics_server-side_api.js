@@ -20,5 +20,6 @@ exports.handler = async function(context, event, callback) {
     }
   }
 
+  // automatically returns gallery in json format & set header as application.json (one of the feature provided by twilio)
   return callback(null, gallery);
 };
