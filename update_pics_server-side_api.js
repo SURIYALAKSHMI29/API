@@ -1,5 +1,6 @@
 // Here, all the messages send to the twilio number are gathered & pushed into gallery[] one by one with attributes source, description, alt, thumbnailWidth
 // Maybe sent multiple images in a single message, so carefully handling them by iterating over it.
+// Twilio account details and phone number have been configured to be accessed via environment variables
 
 exports.handler = async function(context, event, callback) {
   const client = context.getTwilioClient();
